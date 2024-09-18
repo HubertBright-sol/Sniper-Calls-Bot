@@ -24,7 +24,7 @@
 **[👤 OUR TECHNICAL SUPPORT IN TELEGRAM!](https://t.me/snipercallsshelp)**
 
 To get started with Sniper Calls Bot, follow these steps:
-
+ 
 1. Clone the repository:
     ```sh
     git clone https://github.com/HubertBright-sol/Sniper-Calls-Bot.git
