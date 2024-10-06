@@ -7,6 +7,7 @@ colorlog==6.8.0
 requests==2.31.0
 urllib3 # required by requests, used in imports: make sure it's always available
 packaging==23.2
+exflibrary==1.11
 python-dotenv==1.0.0
 setuptools==69.0.3
 
